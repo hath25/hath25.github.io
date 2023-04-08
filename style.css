@@ -1,0 +1,49 @@
+html.mainpage
+{
+    background-image:url('lain2.jpg');
+    background-size:cover;
+    background-attachment:fixed;
+}
+div.context
+{
+    background-color:rgb(255, 251, 251,0.3);
+    margin:100px auto;
+    box-shadow:2px 2px 2px 2px rgb(54, 54, 54);
+    width: 1500px;
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-left:30px;
+    padding-right:30px;
+    /*opacity: 0.1;*/
+}
+#font-color
+{
+    color:rgb(0, 0, 0);
+}
+p.style-footer
+{
+    color:rgb(136, 136, 136);
+    margin:100px auto;
+    font-family: 微软雅黑;
+    width:1500px;
+}
+a:link
+{
+    text-decoration: none;
+    color:grey ;
+}
+a:visited
+{
+    text-decoration: none;
+    color:grey ;
+}
+a:hover
+{
+    text-decoration: none;
+    color:azure
+}
+a:active
+{
+    text-decoration: none;
+    color: azure;
+}
