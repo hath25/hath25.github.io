@@ -4,21 +4,22 @@ html.mainpage
     background-size:cover;
     background-attachment:fixed;
 }
+div.page
+{
+    margin:auto;
+    width: 80%;
+    background-color:rgb(255,255,255,0)
+}
 div.context
 {
     background-color:rgb(255, 251, 251,0.3);/*0.3为半透明*/
     margin-top:100px ;
     box-shadow:2px 2px 2px 2px rgb(54, 54, 54);
     padding-top:50px;
+    padding-top:50px;
     padding-bottom:50px;
     padding-left:30px;
     padding-right:30px;
-}
-div.page
-{
-    margin:auto;
-    width: 80%;
-    background-color:rgb(255,255,255,0)
 }
 #font-color
 {
@@ -27,9 +28,9 @@ div.page
 p.style-footer
 {
     color:rgb(136, 136, 136);
-    margin:100px auto;
+    
     font-family: 微软雅黑;
-    width:1500px;
+    
 }
 a:link
 {
