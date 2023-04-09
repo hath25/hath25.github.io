@@ -6,15 +6,13 @@ html.mainpage
 }
 div.context
 {
-    background-color:rgb(255, 251, 251,0.3);
-    margin:100px auto;
+    background-color:rgb(255, 251, 251,0.3);/*0.3为半透明*/
+    margin-top:100px ;
     box-shadow:2px 2px 2px 2px rgb(54, 54, 54);
-    width: 1500px;
     padding-top:50px;
     padding-bottom:50px;
     padding-left:30px;
     padding-right:30px;
-    /*opacity: 0.1;*/
 }
 div.page
 {
