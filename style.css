@@ -16,6 +16,12 @@ div.context
     padding-right:30px;
     /*opacity: 0.1;*/
 }
+div.page
+{
+    margin:auto;
+    width: 80%;
+    background-color:rgb(255,255,255,0)
+}
 #font-color
 {
     color:rgb(0, 0, 0);
