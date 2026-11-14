@@ -1,0 +1,4 @@
+baseURL = 'https://hath25.github.io/'
+locale = 'zh-cn'
+title = 'Hath25的自留地'
+theme = 'PaperMod'
