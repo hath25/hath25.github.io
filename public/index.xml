@@ -6,8 +6,17 @@
     <description>Recent content on Hath25的自留地</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 14 Nov 2026 21:16:38 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 19:24:53 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Medicine</title>
+      <link>http://localhost:1313/posts/medicine/</link>
+      <pubDate>Sun, 15 Nov 2026 19:24:53 +0800</pubDate>
+      <guid>http://localhost:1313/posts/medicine/</guid>
+      <description>&lt;p&gt;开一个坑，记录自己的服药，随缘更新。&lt;/p&gt;
+&lt;h3 id=&#34;现在吃药计划20261115&#34;&gt;现在吃药计划(2026.11.15)&lt;/h3&gt;
+&lt;p&gt;Olanzapine 20mg,fluoxetine 40mg.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello</title>
       <link>http://localhost:1313/posts/hello/</link>
